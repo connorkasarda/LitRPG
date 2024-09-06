@@ -1,0 +1,18 @@
+{
+    Name
+    {
+        First { Caroline },
+        Middle {},
+        Last {}
+    },
+    Sex { Female },
+    Age { 21 },
+    Height { 160 cm },
+    Weight { 50 kg },
+    Hair
+    {
+        Color { Platinum },
+        Length { Long },
+        Styles [ Ponytail, Two-side-up ]
+    }
+}

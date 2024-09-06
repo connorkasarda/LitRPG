@@ -1,0 +1,18 @@
+{
+    Name
+    {
+        First { Seig },
+        Middle {},
+        Last {}
+    },
+    Sex { Male },
+    Age { 19 },
+    Height { 170 cm },
+    Weight { 65 kg },
+    Hair
+    {
+        Color { Light Brown },
+        Length { Short },
+        Styles [ Spiky Fringe w/ Facial Stubble ]
+    }
+}
