@@ -9,10 +9,34 @@
     Age { 19 },
     Height { 170 cm },
     Weight { 65 kg },
+    Body Type { Athletic, Slim },
+    Outfit
+    {
+        
+    },
     Hair
     {
         Color { Light Brown },
         Length { Short },
-        Styles [ Spiky Fringe w/ Facial Stubble ]
+        Styles { Spiky Fringe w/ Facial Stubble },
+        
+    }
+    Eyes { Light Green },
+    Personality
+    {
+        Temperament {  },
+        Emotional {  },
+        Interpersonal {  },
+        Cognitive {  },
+        Morality {  },
+        Motivational {  },
+        Self-Perception {  },
+        Decision-Making {  },
+        Behavioral {  },
+        Expression {  }
+    },
+    Upbringing
+    {
+        
     }
 }

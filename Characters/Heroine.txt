@@ -10,23 +10,33 @@
     Height { 160 cm },
     Weight { 50 kg },
     Body Type { Athletic, Slimmer },
+    Outfit
+    {
+        
+    },
     Hair
     {
         Color { Platinum },
         Length { Long },
+        Structure { Straight }
         Styles { Ponytail, Two-side-up braided/straight }
     },
+    Eyes { Aquamarine },
     Personality
     {
-        Temperament { Tsundere, Reserved },
-        Emotional { Temperamental, Composed/Reactive },
-        Interpersonal { Assertive, Distant, Empathetic },
-        Cognitive { Curious, Book-Smart, Strategic, Resourceful, Calculating },
+        Temperament { Tsundere, Tempermental, Reserved, Introspective },
+        Emotional { Introverted, Confident, Impatient, Composed yet Volatile, Gaurdedly Compassionate },
+        Interpersonal { Assertive, Distant, Empathetic, Good Listener, Evaluative },
+        Cognitive { Curious, Strategic, Resourceful, Calculating },
         Morality { Honest, Situational-Secretivity, Integrous/Honorable, Just },
-        Motivational { Ambitious, ... },
-        Self-Perception { ... },
-        Decision-Making { ... },
+        Motivational { Ambitious, Determined, Reflective },
+        Self-Perception { Confident, Modest },
+        Decision-Making { Logical, Decisive, Adventurous },
         Behavioral { Impatient, Hidden Kindness, Committed },
-        Expression { Science, Spiritual/Religious, Bookworm, Legacy-Focused }
+        Expression { Science\Technology, Spiritual/Religious, Bookworm, Legacy-Focused }
+    },
+    Upbringing
+    {
+
     }
 }
