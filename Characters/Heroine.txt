@@ -1,7 +1,7 @@
 {
     Name
     {
-        First { Caroline },
+        First { Mæja },
         Middle {},
         Last {}
     },
@@ -9,10 +9,34 @@
     Age { 21 },
     Height { 160 cm },
     Weight { 50 kg },
+    Body Type { Athletic, Slimmer },
+    Outfit
+    {
+        
+    },
     Hair
     {
         Color { Platinum },
         Length { Long },
-        Styles [ Ponytail, Two-side-up ]
+        Structure { Straight }
+        Styles { Ponytail, Two-side-up braided/straight }
+    },
+    Eyes { Aquamarine },
+    Personality
+    {
+        Temperament { Tsundere, Tempermental, Reserved, Introspective },
+        Emotional { Introverted, Confident, Impatient, Composed yet Volatile, Gaurdedly Compassionate },
+        Interpersonal { Assertive, Distant, Empathetic, Good Listener, Evaluative },
+        Cognitive { Curious, Strategic, Resourceful, Calculating },
+        Morality { Honest, Situational-Secretivity, Integrous/Honorable, Just },
+        Motivational { Ambitious, Determined, Reflective },
+        Self-Perception { Confident, Modest },
+        Decision-Making { Logical, Decisive, Adventurous },
+        Behavioral { Impatient, Hidden Kindness, Committed },
+        Expression { Science\Technology, Spiritual/Religious, Bookworm, Legacy-Focused }
+    },
+    Upbringing
+    {
+
     }
 }
